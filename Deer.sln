@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deer", "Deer\Deer.csproj", "{5D5174D5-3F47-4EF8-838E-5AAAD8958884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deer.App", "Deer.App\Deer.App.csproj", "{5425FAFC-7825-4EC7-9229-032853C4FE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5174D5-3F47-4EF8-838E-5AAAD8958884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5174D5-3F47-4EF8-838E-5AAAD8958884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5174D5-3F47-4EF8-838E-5AAAD8958884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5174D5-3F47-4EF8-838E-5AAAD8958884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5425FAFC-7825-4EC7-9229-032853C4FE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5425FAFC-7825-4EC7-9229-032853C4FE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5425FAFC-7825-4EC7-9229-032853C4FE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5425FAFC-7825-4EC7-9229-032853C4FE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
