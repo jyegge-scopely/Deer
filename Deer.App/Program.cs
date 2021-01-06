@@ -9,7 +9,8 @@ namespace Deer.App
         {
             var interpreter = new Interpreter();
             
-            interpreter.Interpret("");
+            interpreter.Interpret("a = 1" +
+                                  "b = a");
         }
     }
 }
